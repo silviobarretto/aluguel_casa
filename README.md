@@ -3,7 +3,8 @@
 Respondendo aos questionamentos:
 
   1. A Questão de Negócio?
-    1.1 Qual a minha meta?
+     a) Qual a minha meta?
+    1.1 
     1.2 Achar o melhor custo benefício para a sua situação
 
   3. Como posso chegar?
